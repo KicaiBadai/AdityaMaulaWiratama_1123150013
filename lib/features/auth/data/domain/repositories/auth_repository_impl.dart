@@ -1,8 +1,6 @@
-
-import 'package:backend_firebase/core/services/dio_client.dart';
-import 'package:backend_firebase/core/constants/api_constants.dart';
-import 'package:backend_firebase/features/auth/data/domain/repositories/auth_repository.dart';
-
+import 'package:uts_1123150013/core/services/dio_client.dart';
+import 'package:uts_1123150013/core/constants/api_constants.dart';
+import 'package:uts_1123150013/features/auth/data/domain/repositories/auth_repository.dart';
 
 class AuthRepositoryImpl implements AuthRepository {
   @override

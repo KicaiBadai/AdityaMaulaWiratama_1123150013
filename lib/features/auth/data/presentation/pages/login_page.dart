@@ -9,7 +9,7 @@ import '../widgets/custom_button.dart';
 import '../widgets/loading_overlay.dart';
 import '../widgets/google_sign_in_button.dart';
 import '../widgets/divider_with_text.dart';
-import 'package:backend_firebase/core/routes/app_router.dart'; // ← Sesuaikan ini
+import 'package:uts_1123150013/core/routes/app_router.dart'; // ← Sesuaikan ini
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

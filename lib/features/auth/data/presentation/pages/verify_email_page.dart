@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 import '../providers/auth_provider.dart';
 import '../widgets/auth_header.dart';
 import '../widgets/custom_button.dart';
-import 'package:backend_firebase/core/routes/app_router.dart'; // ← Gunakan ini
+import 'package:uts_1123150013/core/routes/app_router.dart'; // ← Gunakan ini
 
 class VerifyEmailPage extends StatefulWidget {
   const VerifyEmailPage({super.key});

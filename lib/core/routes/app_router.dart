@@ -1,11 +1,11 @@
 // lib/core/routes/app_router.dart
 import 'package:flutter/material.dart';
-import 'package:backend_firebase/core/guards/auth_guard.dart';
-import 'package:backend_firebase/features/auth/data/presentation/pages/login_page.dart';
-import 'package:backend_firebase/features/auth/data/presentation/pages/register_page.dart';
-import 'package:backend_firebase/features/auth/data/presentation/pages/verify_email_page.dart';
-import 'package:backend_firebase/features/dashboard/presentation/pages/dashboard_page.dart';
-import 'package:backend_firebase/core/pages/splash_page.dart';
+import 'package:uts_1123150013/core/guards/auth_guard.dart';
+import 'package:uts_1123150013/features/auth/data/presentation/pages/login_page.dart';
+import 'package:uts_1123150013/features/auth/data/presentation/pages/register_page.dart';
+import 'package:uts_1123150013/features/auth/data/presentation/pages/verify_email_page.dart';
+import 'package:uts_1123150013/features/dashboard/presentation/pages/dashboard_page.dart';
+import 'package:uts_1123150013/core/pages/splash_page.dart';
 
 class AppRouter {
   // Auth Routes
