@@ -2,7 +2,7 @@
 
 ## Identitas Pengembang
 
-| **Nama**              | Aditya Mauala Wiratama |
+| **Nama**              | Aditya Maula Wiratama |
 | --------------------- | ---------------------- |
 | **NIM**               | 1123150013             |
 | **Kelas**             | TI SE 23 P1            |
